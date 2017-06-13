@@ -1,1 +1,2 @@
-*.rb linguist-language=PHP
+# Auto detect text files and perform LF normalization
+* text=auto
