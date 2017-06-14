@@ -22,7 +22,7 @@ This is  website project made back in 2016. A Technology news web project built 
         <li>PDO (PHP Data Objects) extension (pdo) </li>
       </ul>
     <li>MySQL 5.5.3</li>
-    
+    <li>The Database file is "technology.sql", which must be imported into MySQL. </li>
   </ul>
   
 ## Features
