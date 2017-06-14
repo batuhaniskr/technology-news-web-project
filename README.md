@@ -14,4 +14,27 @@ This is  website project made back in 2016. A Technology news web project built 
 
 ![4](https://user-images.githubusercontent.com/17202632/27103697-3aa69054-5092-11e7-98c9-4107fd294503.PNG)
 
+## Requirements
+
+  <ul>
+  <li>PHP 5.6.0+ </li>
+      <ul>
+        <li>PDO (PHP Data Objects) extension (pdo) </li>
+      </ul>
+    <li>MySQL 5.5.3</li>
+    
+  </ul>
+  
+## Features
+
+<ul>
+  <li>Login and Registration system is available. </li>
+  <li>Login and Registration system is available. </li>
+  <li>The Authentication and Authorize System is available. </li>
+  
+</ul>
+## Licence
+  
+  This project is licensed under the terms of the MIT License
+  
 
