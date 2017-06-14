@@ -29,10 +29,13 @@ This is  website project made back in 2016. A Technology news web project built 
 
 <ul>
   <li>Login and Registration system is available. </li>
-  <li>Login and Registration system is available. </li>
-  <li>The Authentication and Authorize System is available. </li>
+  <li>The Authentication and Authorize System was implemented. </li>
+  <li>Project Has Admin Panel.</li>
+  <li>Users can ask questions from other users and comments on the news</li>
+  <li>Coding lesson can be given in the programming section.</li>
   
 </ul>
+
 ## Licence
   
   This project is licensed under the terms of the MIT License
