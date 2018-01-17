@@ -1,5 +1,5 @@
 # Technology-News-Website
-This is  website project made back in 2016. A Technology news web project built using PHP, MySQL, HTML, JavaScript, and CSS.
+This is  website project made in 2016. A Technology news web project built using PHP, MySQL, HTML, JavaScript, and CSS.
 
 <strong><i>Screen Shot: </i></strong>
 
